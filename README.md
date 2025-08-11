@@ -1,2 +1,14 @@
-# Resume
-This project was developed while learning CSS and HTML tools to create a resume.
+# Welcome to my first project on github!
+
+## Tools used:
+
+* HTML
+
+* CSS
+
+* Flex-box
+
+## Made by:
+### Glaucia Grossi
+### Linkedin: https://www.linkedin.com/in/glau-grossi/
+
